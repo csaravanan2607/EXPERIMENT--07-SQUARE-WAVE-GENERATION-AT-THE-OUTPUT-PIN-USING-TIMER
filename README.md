@@ -112,24 +112,40 @@ int main(void)
 }
 ```
 ## Output screen shots of proteus  :
-![](https://github.com/Adhithya4116/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118707079/9387850e-221b-429a-929c-f188093bf060)
+ 
+ ![Screenshot 2024-10-14 025530](https://github.com/user-attachments/assets/c10d815a-d494-45a8-9174-d7db653fab85)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![](https://github.com/Adhithya4116/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118707079/293ac2e1-565f-4a92-9746-8e0df3347e64)
+ ![image](https://github.com/user-attachments/assets/423b0d51-e314-490e-ade7-3ea13f24ff99)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
+![Screenshot 2024-10-14 025631](https://github.com/user-attachments/assets/635802d7-b841-4846-a0dd-6c13fae4f3ca)
 
-TON = TOFF= TOTAL TIME = FREQUENCY = 1/(TOTAL TIME)
+TON = 2ms
+TOFF=2ms
+TOTAL TIME = 4ms
+FREQUENCY = 1/4 = 250Hz 
+
 
 FOR PULSE AT 700
+![Screenshot 2024-10-14 083638](https://github.com/user-attachments/assets/a3179701-36a2-4441-a1d2-6914642e1422)
 
-TON = TOFF= TOTAL TIME = FREQUENCY = 1/(TOTAL TIME)
+TON = 3ms
+TOFF= 1ms
+TOTAL TIME = 4ms
+FREQUENCY = 1/4 = 250Hz 
+
 
 FOR PULSE AT 900
+![Screenshot 2024-10-14 083652](https://github.com/user-attachments/assets/41966022-c24f-4ad5-98d6-020539e41833)
 
-TON = TOFF= TOTAL TIME = FREQUENCY = 1/(TOTAL TIME)
+TON = 3.5ms
+TOFF= 0.5ms
+TOTAL TIME = 4ms 
+FREQUENCY = 1/4 = 250Hz
+
 
 
 ## Result :
