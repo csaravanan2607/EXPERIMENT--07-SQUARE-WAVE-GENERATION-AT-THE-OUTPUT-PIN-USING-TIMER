@@ -128,26 +128,6 @@ TOFF=2ms
 TOTAL TIME = 4ms
 FREQUENCY = 1/4 = 250Hz 
 
-
-FOR PULSE AT 700
-![Screenshot 2024-10-14 083638](https://github.com/user-attachments/assets/a3179701-36a2-4441-a1d2-6914642e1422)
-
-TON = 3ms
-TOFF= 1ms
-TOTAL TIME = 4ms
-FREQUENCY = 1/4 = 250Hz 
-
-
-FOR PULSE AT 900
-![Screenshot 2024-10-14 083652](https://github.com/user-attachments/assets/41966022-c24f-4ad5-98d6-020539e41833)
-
-TON = 3.5ms
-TOFF= 0.5ms
-TOTAL TIME = 4ms 
-FREQUENCY = 1/4 = 250Hz
-
-
-
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
